@@ -1,4 +1,11 @@
 # Compiled class file
+HELP.md
+.gradle
+/build/
+/bin/
+bin/
+build
+!gradle/wrapper/gradle-wrapper.jar
 *.class
 
 # Log file
